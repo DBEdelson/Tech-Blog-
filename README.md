@@ -17,7 +17,7 @@ Build a CMS-style blog site developers will be able to publish their posts and c
 
 Live on [Heroku](https://agile-waters-55540.herokuapp.com/) 
 
-![TechBlog](./public/images/demo.png)
+![TechBlog]
 
 ## Installation
 
