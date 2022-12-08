@@ -2,7 +2,7 @@
 
 ## Description
 
-Build a CMS-style blog site developers will be able to publish their posts and comment on other developer posts. This site will follow the Model View Controller paradigm structure, utilize handlebars.js, sequelize and express-session for authentication. 
+Build a CMS-style blog site developers will be able to publish their posts and comment on other developer posts. This site will follow the Model View Controller paradigm structure, utilize handlebars.js, sequelize and express-session for authentication.
 
 ## Table of Contents
 
@@ -15,35 +15,37 @@ Build a CMS-style blog site developers will be able to publish their posts and c
 
 ## Usage
 
-Live on [Heroku](https://agile-waters-55540.herokuapp.com/) 
+Live on [Heroku](https://agile-waters-55540.herokuapp.com/)
 
 ![TechBlog]
 
 ## Installation
 
-To run via local environment: 
+To run via local environment:
+
 1.  Clone the repository
 
 2.  Open terminal, and navigate to the appropriate directory
 
 3.  Install dependencies in package.json
-    
+
     Continue in command line:
-    - `mysql -u root -p` 
+
+    - `mysql -u root -p`
     - User will be prompted for password
 
-    Once mysql is running 
-    - `source db/schema.sql;` 
-    
-    proceed to quit 
+    Once mysql is running
+
+    - `source db/schema.sql;`
+
+    proceed to quit
+
     - `quit;`
 
-5. `node server.js`
-6. Open localhost:3001
+4.  `node server.js`
+5.  Open localhost:3001
 
 ## Credits
-
-
 
 Debug: Shawn Tschoepe Github: https://github.com/shawn220a
 Debug: Salissa Github: https://github.com/salissa4
@@ -80,4 +82,4 @@ SOFTWARE.
 
 ## How to Contribute
 
-[Contributor Covenant](https://www.contributor-covenant.org/) 
+[Contributor Covenant](https://www.contributor-covenant.org/)
